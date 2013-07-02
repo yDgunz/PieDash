@@ -15,15 +15,15 @@ var keys = [
 ];
 
 var data= [
-	{name: 'Irene Aurilio', gender: 'F', association: 'Bride', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Chicken'},
-	{name: 'Laura Kamfonik', gender: 'F', association: 'Bride', relationship: 'No', attending: 'Yes', rsvp: 'Yes', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Beef'},
-	{name: 'Julie Gunther', gender: 'F', association: 'Groom', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'Yes', hasp1: 'No', isp1: 'No', meal: 'Beef'},
-	{name: 'Charlie Gunther', gender: 'M', association: 'Groom', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'Yes', hasp1: 'No', isp1: 'No', meal: 'Chicken'},
-	{name: 'Matt Gunther', gender: 'M', association: 'Groom', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'Yes', hasp1: 'Yes', isp1: 'No', meal: 'Vegetarian'},
-	{name: 'Frank Benson', gender: 'M', association: 'Friend', relationship: 'Yes', attending: 'Unknown', rsvp: 'No', oot: 'Yes', hasp1: 'Yes', isp1: 'No', meal: 'Chicken'},
-	{name: 'Lauren Devivio', gender: 'F', association: 'Friend', relationship: 'Yes', attending: 'Unknown', rsvp: 'No', oot: 'Yes', hasp1: 'No', isp1: 'Yes', meal: 'Chicken'},
-	{name: 'Anson Dorsey', gender: 'M', association: 'Friend', relationship: 'Yes', attending: 'Unknown', rsvp: 'No', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Beef'},
-	{name: 'Leigh Loughlin', gender: 'F', association: 'Friend', relationship: 'No', attending: 'Yes', rsvp: 'Yes', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Chicken'}
+	{name: 'Jane Doe', gender: 'F', association: 'Bride', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Chicken'},
+	{name: 'Jane Doe', gender: 'F', association: 'Bride', relationship: 'No', attending: 'Yes', rsvp: 'Yes', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Beef'},
+	{name: 'Jane Doe', gender: 'F', association: 'Groom', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'Yes', hasp1: 'No', isp1: 'No', meal: 'Beef'},
+	{name: 'John Doe', gender: 'M', association: 'Groom', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'Yes', hasp1: 'No', isp1: 'No', meal: 'Chicken'},
+	{name: 'John Doe', gender: 'M', association: 'Groom', relationship: 'Yes', attending: 'Yes', rsvp: 'Yes', oot: 'Yes', hasp1: 'Yes', isp1: 'No', meal: 'Vegetarian'},
+	{name: 'John Doe', gender: 'M', association: 'Friend', relationship: 'Yes', attending: 'Unknown', rsvp: 'No', oot: 'Yes', hasp1: 'Yes', isp1: 'No', meal: 'Chicken'},
+	{name: 'Jane Doe', gender: 'F', association: 'Friend', relationship: 'Yes', attending: 'Unknown', rsvp: 'No', oot: 'Yes', hasp1: 'No', isp1: 'Yes', meal: 'Chicken'},
+	{name: 'John Doe', gender: 'M', association: 'Friend', relationship: 'Yes', attending: 'Unknown', rsvp: 'No', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Beef'},
+	{name: 'Jane Doe', gender: 'F', association: 'Friend', relationship: 'No', attending: 'Yes', rsvp: 'Yes', oot: 'No', hasp1: 'Yes', isp1: 'No', meal: 'Chicken'}
 ];
 
 init('charts',4);
